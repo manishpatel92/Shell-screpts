@@ -20,11 +20,8 @@ git config --global user.email "manish080194@gmail.com"
 git add .
 git commit -m "that is commit form shell"
 git remote add origin https://github.com/manishpatel92/Shell-screpts.git
-git push -u origin master > output2.txt
+git push -u origin master
 
+manishpatel92
 
-
-
-
-
-
+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
