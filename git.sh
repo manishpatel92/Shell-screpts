@@ -3,7 +3,7 @@
 # To verifaid the GIT is available or NOT....
 
 which git > output1.txt
-if grep -q "/sbin/httpd" output1.txt;
+if grep -q "/bin/git" output1.txt;
 then
         echo "The GIT is alrady Install in your machine"
 else
@@ -22,6 +22,6 @@ git commit -m "that is commit form shell"
 git remote add origin https://github.com/manishpatel92/Shell-screpts.git
 git push -u origin master
 
-manishpatel92
+echo "manishpatel92"
 
-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
+echo "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"
