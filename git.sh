@@ -18,8 +18,6 @@ git init
 git config --global user.name "manishpatel92"
 git config --global user.password "your-password"
 git config --global user.password "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"
-
-
 git config --global user.email "manish080194@gmail.com"
 git add .
 git commit -m "that is commit form shell"
