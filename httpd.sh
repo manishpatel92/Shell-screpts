@@ -19,7 +19,7 @@ if grep -q "running" output.txt;
 then
         echo "the httpd service is running"
 else
-service httpd start
+sudo service httpd start
         echo "the service is stop it is not running the service is started in few second"
 fi
  sudo rm -rf output.txt
