@@ -2,6 +2,7 @@
 
 # To verifaid the server is available or NOT
 
+sudo su
 which httpd > output1.txt
 if grep -q "/sbin/httpd" output1.txt;
 then
